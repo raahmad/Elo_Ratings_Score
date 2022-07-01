@@ -41,6 +41,7 @@ Three packages used
 Broke up code into two files: main.py and utilities.py
 1. Main contains all the code for the GUI
 2. Utilities contains only the code for the graph
+
 Data source:https://github.com/jtcies/nba-elo/blob/master/data/nba_elo_538.csv
 
 
